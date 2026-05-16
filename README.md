@@ -48,4 +48,4 @@ O JavaScript foi utilizado para:
 
 ## 🌐 Visualizar o Projeto
 
-🔗[Visualizar]()
+🔗[Visualizar](https://arthur-luiss.github.io/Nexor-landing-page/)
