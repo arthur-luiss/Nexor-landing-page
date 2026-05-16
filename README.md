@@ -1,4 +1,4 @@
-# 🌍 Nexor (Landing Page)
+# 📷 Nexor (Landing Page)
 
 Uma landing page moderna e responsiva desenvolvida para divulgação de uma agência.  
 O projeto foi criado com foco em experiência do usuário, design responsivo e interatividade durante a navegação.
