@@ -175,7 +175,7 @@
         <form class="contato-form reveal" onsubmit="handleSubmit(event)">
           <div class="field-group">
             <label>Seu nome</label>
-            <input type="text" placeholder="Como você se chama?" required/>
+            <input type="text" placeholder="Como você se chama?" required minlength="4"/>
           </div>
           <div class="field-group">
             <label>E-mail</label>
@@ -195,7 +195,7 @@
           <div class="field-group">
             <label>Mensagem</label>
             <textarea
-              placeholder="Fale um pouco sobre o seu projeto..." required
+              placeholder="Fale um pouco sobre o seu projeto..." required minlength="100"
             ></textarea>
           </div>
           <button type="submit" class="btn-main btn-submit">

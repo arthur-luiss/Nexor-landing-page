@@ -29,7 +29,7 @@ function handleSubmit(e) {
   const btn = e.target.querySelector(".btn-submit");
   const original = btn.textContent;
   btn.textContent = "Mensagem enviada ✓";
-  btn.style.background = "#2ecc71";
+  btn.style.background = "#262521";
   btn.disabled = true;
   setTimeout(() => {
     btn.textContent = original;
